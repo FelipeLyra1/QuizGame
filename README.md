@@ -21,3 +21,4 @@
 - **THEN** the game is over
 - **WHEN** the game is over
 - **THEN I** can save my initials and score
+![quiz](https://user-images.githubusercontent.com/122133150/226507037-9d38ab07-29e8-4673-9ee3-58c12cc1fba1.JPG)
